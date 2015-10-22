@@ -1,5 +1,6 @@
 import webbrowser
 
+
 class Movie():
     '''This class defines the format of movie'''
     def __init__(self, movie_dict):
